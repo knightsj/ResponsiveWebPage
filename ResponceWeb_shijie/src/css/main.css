@@ -267,6 +267,7 @@ header .main ul li a.active {
     header .main ul li a {
         font-weight: normal;
         padding: 0 0.8rem;
+        font-size: 1.4rem;
     }
 }
 
